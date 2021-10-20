@@ -3,9 +3,9 @@
 # Xtern-Work-Sample-Assesment
 This repository contains my solution for XTERN Work Sample Assessment for summer 2022:
 Important files:
-**Generated dataset** in the Dataset directory/folder
-**10 weeks of events**: A sample schedule for events in the span of 10 weeks
-**Python code** under the name *dataset_generator.py* that generated the dataset
+* **Generated dataset** in the Dataset directory/folder
+* **10 weeks of events**: A sample schedule for events in the span of 10 weeks
+* **Python code** under the name *dataset_generator.py* that generated the dataset
 
 P.S. The code is yet to be documented properly and optimized for best performance
 
@@ -15,9 +15,9 @@ Input: the location of the five workspace places and the location of the housing
 Output: Return the best coworking place out of the five.
 
 # Tools:
-1- Python Programming Language
-2- Google Maps API
-3- Pandas library
+* 1- Python Programming Language
+* 2- Google Maps API
+* 3- Pandas library
 
 # Approach:
 Created a panadas data frame to serve as the dataset that contains all related data.
