@@ -91,7 +91,7 @@ col_num += 1
 
 
 # save restaurants!
-with open("Nearby Restaurants.csv", 'w') as f:
+with open(r"Suplemental CSVs\Nearby Restaurants.csv", 'w') as f:
     writ = csv.writer(f)
     for key, value in nearby_restaurant.items():
         writ.writerow([key, value, len(value)])
@@ -118,7 +118,7 @@ dataset.insert(col_num, '# of Nearby Events', num_of_events)
 col_num += 1
 
 # save events!
-with open("Nearby Events.csv", 'w') as f:
+with open(r"Suplemental CSVs\Nearby Events.csv", 'w') as f:
     writ = csv.writer(f)
     for key, value in nearby_events.items():
         writ.writerow([key, value, len(value)])
