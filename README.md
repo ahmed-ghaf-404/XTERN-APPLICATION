@@ -10,8 +10,8 @@ Important files:
 P.S. The code is yet to be documented properly and optimized for best performance
 
 # Objective
-Main Goal: Generate a dataset to help you find the most convenient coworking places out of 5 potential locations.
-Input: the location of the five workspace places and the location of the housing area.
+To generate a dataset to helps finding the most convenient coworking places out of 5 potential locations.
+Input: the locations of the five candidate coworking places and the location of the housing area.
 Output: Return the best coworking place out of the five.
 
 # Tools:
