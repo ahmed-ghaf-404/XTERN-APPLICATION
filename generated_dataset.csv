@@ -1,0 +1,6 @@
+Name,Address,Latitude & Longitude,Distance From Housing,# of Nearby Restaurants,# of Nearby Events,Final Score
+The Speak Easy,"5255 Winthrop Ave #110, Indianapolis, IN 46220","(39.8488729, -86.1412948)",20.87,11,14,1.66
+zWORKS,"85 E Cedar St #1502, Zionsville, IN 46077","(39.9514923, -86.2608697)",28.27,11,6,0.89
+Launch Fishers,"12175 Visionary Way, Fishers, IN 46038","(39.9667636, -86.0088088)",32.53,2,12,0.71
+Industrious Mass Ave,"350 Massachusetts Ave Suite 300, Indianapolis, IN 46204","(39.765831, -86.157617)",8.7,20,20,2.99
+Launch Indy,"525 S Meridian St, Indianapolis, IN 46225","(39.7593486, -86.1580467)",9.18,10,20,2.49
