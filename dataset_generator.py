@@ -23,8 +23,6 @@ dataset = DataFrame()
 # number of restaurants around the area within walking distance
 # number of events around the working space within driving distance
 
-# The names of all coworking spaces
-# print(df[df.columns[0]][1:])
 
 
 # Adding names of workplaces
@@ -157,4 +155,4 @@ for i in dataset['# of Nearby Events']:
 dataset.insert(col_num, 'Final Score', total)
 col_num += 1
 
-dataset.to_csv("generated_dataset.csv", index=False, header=True)
+dataset.to_csv(r"Dataset/generated_dataset.csv", index=False, header=True)
